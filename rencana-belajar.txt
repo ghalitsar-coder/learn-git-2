@@ -1,9 +1,9 @@
 rencana belajar React
   - Membuat Program Ecommerce
-    * Membuat Authentication menggunakan Firebase
-    * Menggunakan FontAwesome sebgai Source icon
+  * Membuat Authentication menggunakan Firebase
+    * Menggunakan MUI sebagai source icon
   - Membuat Program Social Media app
   - Membuat UI dengan react
-    * Membuat UI dengan menggunakan SASS
+    * Membuat UI dengan tailwindcss
   - Membuat Program Booking App
   - Membuat Disney+ Clone
