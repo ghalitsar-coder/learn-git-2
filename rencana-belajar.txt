@@ -1,8 +1,9 @@
 rencana belajar React
   - Membuat Program Ecommerce
-    * Membuat Authencation menggunakan node
+  * Membuat Authentication menggunakan Firebase
     * Menggunakan MUI sebagai source icon
   - Membuat Program Social Media app
   - Membuat UI dengan react
     * Membuat UI dengan tailwindcss
   - Membuat Program Booking App
+  - Membuat Disney+ Clone
