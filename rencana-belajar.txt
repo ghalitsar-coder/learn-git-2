@@ -2,5 +2,4 @@ rencana belajar React
   - Membuat Program Ecommerce
   - Membuat Program Social Media app
   - Membuat UI dengan react
-  - Membuat Program Search Job
   - Membuat Program Booking App
